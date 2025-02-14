@@ -9,3 +9,7 @@ Shaik Samreen
 | Arshitha MS
 | Harini A 
 | Vedha shree
+
+## Problem Statement : GHOST FISHING GEAR DETECTION​
+## Brief about the idea
+### Ghost Fishing: A Threat to Marine Life​
