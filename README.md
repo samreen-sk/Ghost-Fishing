@@ -33,3 +33,16 @@ This issue directly aligns with UN Sustainable Development Goal 14: Life Below W
 
 We propose EcoNet, a mobile application that leverages AI-powered satellite data to detect ghost gear hotspots in real time. By combining Google Earth Engine, AI/ML models, and Firebase, EcoNet provides real-time detection, visualization, and task allocation to volunteers and NGOs, ensuring faster response and marine ecosystem restoration.​The app visualizes these hotspots through interactive heatmaps, enabling better decision-making. Real-time alerts notify NGOs, volunteers, and fishermen, ensuring quick response and cleanup efforts. A task-claiming system allows users to take ownership of cleanup operations, promoting coordinated action. By integrating technology with community-driven efforts, EcoNet provides an efficient, scalable solution to combat ghost fishing and restore marine ecosystems.​
 
+### List of features offered by the solution​:
+
+1. AI-Powered Ghost Gear Detection : Uses Google Earth Engine and ML models to identify ghost fishing gear from satellite imagery.​
+3. Real-Time Heatmap Visualization : Displays ghost gear hotspots using Google Maps API for easy tracking.​
+4. Task Allocation & Cleanup Management : Volunteers & NGOs can claim cleanup tasks and update progress within the app.​
+5. Automated Alerts & Notifications : Firebase Cloud Messaging sends real-time alerts to nearby responders.​
+6. AI-Generated Impact Reports : Uses Gemini AI to generate reports on cleanup efforts (marine life saved, area cleaned).​
+7. Gamification & Engagement : Leaderboards, badges, and rewards to motivate participation.​
+
+### Process flow diagram or Use-case diagram
+![Screenshot 2025-02-14 234000](https://github.com/user-attachments/assets/bc0806d0-483c-4ca3-9667-0a08bd745b19)
+
+The provided diagram is a Use-Case Diagram that illustrates the interaction between users, external systems, and the core functionalities of the Econet AI-powered Ghost Net Removal Network. It depicts how users can detect ghost nets, visualize their locations through heat maps, and identify the type of net using AI-powered tools like Gemini AI, Google Earth Engine API, and Google Maps API. Once a ghost net is detected, a cleanup notification is sent, allowing users to accept tasks, remove ghost nets, and upload proof of cleanup. Sponsors play a crucial role by providing rewards and funding to incentivize cleanup efforts, while the application maintains a leaderboard to track contributions. The diagram effectively showcases the structured workflow of the app, emphasizing the role of AI, user engagement, and sponsorship in tackling ghost fishing gear pollution.This diagram effectively outlines the Econet app's core functionality and stakeholder interactions.
