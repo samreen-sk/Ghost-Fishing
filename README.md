@@ -75,6 +75,20 @@ The provided Architecture Diagram outlines the workflow of the proposed ghost fi
   1. Google Cloud Platform (GCP) – Host backend services, ML models, and APIs.​
   2. Firebase Hosting – Deploy static assets and integrate services.​
 
-​
 
-​
+### Future Development:
+#### IOT Smart Buoys:
+Deploy IoT-enabled devices in high-risk zones to detect ghost nets using sonar and underwater cameras.​
+#### Global Dataset Contribution:​
+​Collaborate with environmental organizations to create a comprehensive database of ghost gear locations​.
+#### Advanced AI Models:​
+​Enhance AI models with larger datasets for higher accuracy and efficiency.​
+#### Community Engagement:​
+​Allow fishermen and coastal communities to report sightings directly via the app.​
+
+
+
+​Addressing the issue of ghost fishing gear is crucial to achieving Sustainable Development Goal (SDG) 14: Life Below Water, which aims to conserve and sustainably use the oceans, seas, and marine resources. The solutions discussed and proposed collaboration between governments, fisheries, conservation organizations, and local communities is essential for implementing effective policies and cleanup efforts. Moreover, raising awareness among fishers and the general public about the long-term consequences of ghost gear will encourage more sustainable fishing practices. 
+
+
+By taking proactive measures and leveraging technological innovations, we can protect marine biodiversity, support coastal economies, and contribute to a healthier ocean ecosystem. Sustainable fishing practices and responsible waste management are key steps toward mitigating this global issue and ensuring a sustainable future for marine life and humanity alike.
