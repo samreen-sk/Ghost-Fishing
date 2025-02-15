@@ -21,7 +21,8 @@ Ghost fishing occurs when abandoned, lost, or discarded fishing gear (ALDFG) con
 
 Studies estimate that up to 2.5% of all fishing gear is lost annually, including over 78,000 km² of nets, more than 25 million pots and traps, and 740,000 km of longlines.
 
-![Screenshot 2025-02-14 230051](https://github.com/user-attachments/assets/64066b29-aa63-4722-b739-cd0468873eb6)
+![Screenshot 2025-02-15 185941](https://github.com/user-attachments/assets/85d7851f-3fa1-41a1-b113-ed81b85f2827)
+
 
 Ghost fishing severely impacts marine ecosystems by continuously trapping and killing marine life long after being abandoned. Lost fishing nets, traps, and lines entangle fish, sea turtles, marine mammals, and seabirds, leading to injuries, starvation, and death. As these species decline, it disrupts the food chain, affecting predator-prey relationships and overall biodiversity. Additionally, ghost gear damages coral reefs and seagrass beds, which serve as essential habitats for many marine organisms. Over time, the decomposition of synthetic materials in ghost nets releases microplastics into the ocean, further polluting the marine environment. This ongoing destruction threatens fish populations, disrupts coastal economies, and accelerates oceanic degradation, making ghost fishing a critical environmental concern.
 
@@ -29,7 +30,8 @@ This issue directly aligns with UN Sustainable Development Goal 14: Life Below W
 
 ## Proposed Solution:
 ### App Name : EcoNet
-![Screenshot 2025-02-14 232809](https://github.com/user-attachments/assets/846a99bb-7dbc-43f3-ae38-b41783f387ce)
+![Screenshot 2025-02-15 185749](https://github.com/user-attachments/assets/36aa34ef-411c-49be-a869-0f20665d04a1)
+
 
 We propose EcoNet, a mobile application that leverages AI-powered satellite data to detect ghost gear hotspots in real time. By combining Google Earth Engine, AI/ML models, and Firebase, EcoNet provides real-time detection, visualization, and task allocation to volunteers and NGOs, ensuring faster response and marine ecosystem restoration.​The app visualizes these hotspots through interactive heatmaps, enabling better decision-making. Real-time alerts notify NGOs, volunteers, and fishermen, ensuring quick response and cleanup efforts. A task-claiming system allows users to take ownership of cleanup operations, promoting coordinated action. By integrating technology with community-driven efforts, EcoNet provides an efficient, scalable solution to combat ghost fishing and restore marine ecosystems.​
 
