@@ -52,7 +52,8 @@ The provided diagram is a Use-Case Diagram that illustrates the interaction betw
 
 ### Architecture diagram of the proposed solution​:
 
-![Screenshot 2025-02-14 234517](https://github.com/user-attachments/assets/5febc4f8-5d20-446e-87aa-5b7141f504ae)
+![Architecture](https://github.com/user-attachments/assets/0f546097-974b-45d9-a3a6-e3eb39127fd3)
+
 
 The provided Architecture Diagram outlines the workflow of the proposed ghost fishing gear detection and cleanup solution, detailing the key stages from detection to impact analysis. The process begins with data collection and ghost net detection, utilizing AI, image recognition, or crowdsourced reporting. Once detected, a notification and response system alerts users or cleanup organizations to take action. The cleanup and verification stage ensures the proper removal of ghost nets, followed by a reward system that incentivizes participants for their efforts. The system then incorporates tracking and analytics to monitor progress and measure the impact of cleanups. Finally, visualization and insights provide data-driven reports, heat maps, and trends to enhance future detection and cleanup strategies. This structured architecture ensures an efficient, technology-driven approach to combating ghost fishing while promoting sustainability and community engagement.
 
